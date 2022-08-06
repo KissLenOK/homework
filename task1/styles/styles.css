@@ -1,0 +1,81 @@
+body {
+  background-color: #F5F5F5;
+  padding: 0;
+  text-align: center;
+}
+
+main {
+  border: 1 solid black;
+  background-color: #FFFFFF;
+  width: 916px;
+  margin: 0 auto;
+  padding: 18px 25px;
+}
+
+h3 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 auto 10px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+img {
+  margin-top: 45px;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+h2 {
+  margin: 0 auto 8px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+}
+
+p {
+  margin: 0;
+  width: 868px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+/* кінець сторінки =) */
+/* .top {
+  margin-top: 10px;
+}
+
+.study {
+  color: black;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+#study {
+  margin-top: 22px;
+} */
+
