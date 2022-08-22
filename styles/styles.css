@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-size: 48px;
+}
+
+ul {
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-size: 36px;
+}
+
+a:hover {
+  color: blueviolet;
+}

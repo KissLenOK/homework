@@ -1,0 +1,169 @@
+/* font-family: 'Inika', serif;
+font-family: 'M PLUS 1', sans-serif;
+font-family: 'Marcellus', serif;
+font-family: 'Marcellus SC', serif; */
+/* header {
+
+} */
+.header {
+  max-height: 110px;
+  min-width: 50px;
+  box-sizing: border-box;
+  font-family: 'M PLUS 1', sans-serif;
+  font-size: 48px;
+  text-align: center;
+  color: #3E45E8;
+}
+
+.span {
+  color: #E8C23E;
+}
+
+.banner {
+  background-image: url("../images/fon.jpg");
+  height: 800px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 195px;
+  padding-left: 80px;
+  box-sizing: border-box;
+}
+
+.banner-content {
+  font-family: Inika, serif;
+  font-style: Bold;
+  font-size: 48px;
+  color: #FFFFFF;
+  height: 272px;
+  line-height: 140%;
+  width: 90%;
+  background-image: url("../images/flag.jpg");
+  background-repeat: no-repeat;
+  padding-left: 50px;
+  box-sizing: border-box;
+}
+
+.main {
+  padding: 0 80px;
+}
+
+.incredible-places {
+  font-family: Inika, serif;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 63px;
+  padding-left: 80px;
+  margin-top: 72px;
+  margin-bottom: 32px;
+}
+
+.line {
+  border-bottom: 5px solid #3E45E8;
+  width: 400px;
+}
+
+.card {
+  height: 480px;
+  width: 30%;
+  border-radius: 10%;
+  font-family: Inika, serif;
+  font-style: bold;
+  box-shadow: 0 0 50px grey;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.card-margin {
+  margin: 4.5%;
+  margin-top: 0px;
+}
+
+.card-image {
+  width: 100%;
+  height: 300px;
+  border-radius: 10%;
+  box-sizing: border-box;
+}
+
+.card-title {
+  font-size: 24px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+a {
+  color: #1E8DF2;
+  text-decoration: none;
+}
+
+.card-subtitle {
+  font-size: 20px;
+  color: #E8C23E;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.ukraine {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.map {
+  margin-top: 36px;
+}
+
+.button {
+  height: 120px;
+  width: 592px;
+  background-color: #2A61F0;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+
+.button-text {
+  font-family: Inika, serif;
+  font-style: Bold;
+  font-size: 64px;
+  line-height: 120px;
+  color: #fff;
+}
+
+.footer {
+  height: 320px;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: 'M PLUS 1', Marcellus, sans-serif;
+  font-size: 48px;
+  color: #3E45E8;
+  background-color: #2F4A4B;
+}
+
+.footer-text {
+  box-sizing: border-box;
+  font-family: 'M PLUS 1', sans-serif;
+  font-size: 48px;
+  text-align: center;
+  color: #3E45E8;
+
+}
+
+.adress {
+  font-family: 'Marcellus SC', serif;
+  font-style: regular;
+  font-size: 36px;
+  line-height: 45px;
+  color: #A89D9D;
+  box-sizing: border-box;
+
+}
+
+ul {
+  list-style: none;
+  margin: 10px;
+}
+
+li {
+  display: inline-block;
+}

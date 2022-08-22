@@ -1,0 +1,48 @@
+body {
+  background-color: #E5E5E5;
+}
+
+.height_div {
+  height: 512px;
+}
+
+.d1 {
+  background-color: black;
+  width: 33%;
+  height: 500px;
+  padding: 90px;
+  box-sizing: border-box;
+  display: inline-block;
+  position: absolute;
+  top: 40px; left: 5px;
+}
+
+.width100 {
+  width: 310px;
+}
+
+.flag {
+  width: 80px;
+  height: 60px;
+  border-radius: 25%;
+  margin: 30px auto;
+  background-image: linear-gradient(blue 50%, yellow 50%);
+}
+
+.d2 {
+  background-image: linear-gradient(blue 50%, yellow 50%);
+  width: 33%;
+  height: 500px;
+  text-align: center;
+  padding-top: 140px;
+  box-sizing: border-box;display: inline-block;position: absolute;
+  top: 40px; left: 515px;
+}
+
+.d3 {
+  padding-top: 230px;
+  border-radius: 50%;
+  position: absolute;
+  top: 40px; left: 1025px;
+}
+
